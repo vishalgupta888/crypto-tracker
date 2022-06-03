@@ -1,6 +1,6 @@
-hey this is the crypto currency tracker made using reactjs and charts where you can check real-time cryto price and analyze through charts
+Hey this is the crypto-currency tracker with beautiful user interface made using ReactJs and ChartJs where you can check real-time cryto price and search coin through search bar and  analyize chart through 1D !W and !M time periods
 
-follow me on twitter - https://www.twitter.com/weshaalll
+tools used - html css react chartjs
 
 
 ![Screenshot (8)](https://user-images.githubusercontent.com/96484672/171797596-5ce65fb8-4f5f-4cd3-a466-f6a0b243c1d5.png)
@@ -11,3 +11,8 @@ follow me on twitter - https://www.twitter.com/weshaalll
 
 ![Screenshot (88)](https://user-images.githubusercontent.com/96484672/171797671-1a8b5cee-866a-4f4d-83b7-6981a1dbd728.png)
 
+
+
+Linkedin - https://www.linkedin.com/in/vishal-gupta-3b9b22229/
+
+Twitter - https://www.twitter.com/weshaalll/
